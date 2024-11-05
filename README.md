@@ -1,0 +1,2 @@
+# User
+"🚀 Built a dynamic CRUD web app with Node.js and Express.js! From storing data in MySQL with faker-generated user profiles to secure username updates and deletions based on password/email checks, this project was all about robust, real-time database operations. #webdevelopment #Nodejs #Expressjs #MySQL #CRUD #Fakerjs #backenddevelopment #FullStack"
